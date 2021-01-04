@@ -1,0 +1,9 @@
+/home/kameleon/Desktop/HashSet2/HashSet2/obj/Debug/net48/HashSet2.csprojAssemblyReference.cache
+/home/kameleon/Desktop/HashSet2/HashSet2/obj/Debug/net48/HashSet2.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/HashSet2/HashSet2/obj/Debug/net48/HashSet2.AssemblyInfo.cs
+/home/kameleon/Desktop/HashSet2/HashSet2/obj/Debug/net48/HashSet2.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/HashSet2/HashSet2/bin/Debug/net48/HashSet2.exe.config
+/home/kameleon/Desktop/HashSet2/HashSet2/bin/Debug/net48/HashSet2.exe
+/home/kameleon/Desktop/HashSet2/HashSet2/bin/Debug/net48/HashSet2.pdb
+/home/kameleon/Desktop/HashSet2/HashSet2/obj/Debug/net48/HashSet2.exe
+/home/kameleon/Desktop/HashSet2/HashSet2/obj/Debug/net48/HashSet2.pdb
